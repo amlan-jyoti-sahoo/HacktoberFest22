@@ -10,7 +10,7 @@ For beginners this is the great opportunity to dive in the pool of open source.
 
 >Hacktoberfest T-shirt👕/Tree🌱(Tree planted in your name and help make Hacktoberfest 2022 more carbon neutral)
 
-**Contribute to _AshuKulu/HacktoberFest2022_**
+**Contribute to https://github.com/Amlan2002/HacktoberFest22 **
 
 **Rules To earn your Hacktoberfest reward.**
 >You must register and make four valid pull requests (PRs) between October 1-31 (in any time zone).
