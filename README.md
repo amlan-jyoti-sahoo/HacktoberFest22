@@ -16,7 +16,7 @@ For beginners this is the great opportunity to dive in the pool of open source.
 
 >Hacktoberfest T-shirt👕/Tree🌱(Tree planted in your name and help make Hacktoberfest 2022 more carbon neutral)
 
-**Contribute to https://github.com/Amlan2002/HacktoberFest22 **
+**Contribute to https://github.com/Amlan2002/HacktoberFest22**
 
 **Rules To earn your Hacktoberfest reward.**
 
