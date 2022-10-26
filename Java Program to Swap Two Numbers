@@ -1,12 +1,16 @@
+import java.util.Scanner;
 public class SwapNumbers {
 
     public static void main(String[] args) {
 
-        float first = 1.20f, second = 2.45f;
+        Scanner sc = new Scanner(System.in);
+        float first, second;
 
         System.out.println("--Before swap--");
-        System.out.println("First number = " + first);
-        System.out.println("Second number = " + second);
+        System.out.println("First number = ");
+        first = sc.nextFloat();
+        System.out.println("Second number = ");
+        second = sc.nextFloat();
 
         // Value of first is assigned to temporary
         float temporary = first;
