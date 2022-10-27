@@ -1,12 +1,3 @@
-
- 
-
-
-
-
-
-
-
 class Mytheread1 extends Thread{
     @Override
     public void run (){
